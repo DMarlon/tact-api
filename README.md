@@ -33,11 +33,10 @@ If you just want to run the project, just download the [Dockerfile](Dockerfile) 
 [![ECLIPSE](https://img.shields.io/badge/Eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
 [![SPRING](https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![FLAYWAY](https://img.shields.io/badge/Flyway-cc0000?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/)
-
 [![INSOMNIA](https://img.shields.io/badge/Insomnia-6600d8?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
-## 🔖 Licensa
-[![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+## 🔖 License
+[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
 ### Support or contact
 
