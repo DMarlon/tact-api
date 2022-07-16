@@ -32,7 +32,7 @@ If you just want to run the project, just download the [Dockerfile](Dockerfile) 
 [![JAVA](https://img.shields.io/badge/Java-cc0000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![ECLIPSE](https://img.shields.io/badge/Eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
 [![SPRING](https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![FLAYWAY](https://img.shields.io/badge/Flyway-cc0000?style=for-the-badge&logo=flyway&logoColor=white)](https://flywaydb.org/)
+[![LIQUIBASE](https://img.shields.io/badge/Liquibase-ff3d00?style=for-the-badge&logo=liquibase&logoColor=white)](https://www.liquibase.org/)
 [![INSOMNIA](https://img.shields.io/badge/Insomnia-6600d8?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 ## 🔖 License
@@ -51,5 +51,5 @@ To additional references, consider the following sections:
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.6.3/reference/htmlsingle/#using-boot-devtools)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.3/reference/htmlsingle/#boot-features-developing-web-applications)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.6.3/reference/htmlsingle/#boot-features-jpa-and-spring-data)
-* [Flyway DB](https://flywaydb.org/documentation/)
+* [Liquibase](https://docs.liquibase.com/home.html)
 
